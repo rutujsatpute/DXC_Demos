@@ -1,0 +1,6 @@
+{
+    "csharp.inlayHints.parameters.enabled": true,
+    "csharp.inlayHints.parameters.suppressForParametersThatDifferOnlyBySuffix": true,
+    "csharp.inlayHints.parameters.forIndexerParameters": true,
+    "csharp.inlayHints.parameters.forLiteralParameters": true
+}
