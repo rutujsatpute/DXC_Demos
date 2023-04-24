@@ -14,6 +14,8 @@
 
            double j = ( t * 1.8) + 32;
             Console.WriteLine(j);
+            for (j=32; j <= 100; j++) ;
+
         }
     }
 }
